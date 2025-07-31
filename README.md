@@ -6,9 +6,9 @@ I have successfully completed internships as a Frontend Developer and Graphic De
 
 My passion for technology and innovation is reflected in my achievements:
 
-🥇 1st Prize in the Build Bharat Through AI Hackathon (among 115 teams) by Andhra University
+🥇1st Prize in the Build Bharat Through AI Hackathon (among 115 teams) by Andhra University
 
-🥈 2nd Prize in the Designathon at VIEW College’s national tech fest
+🥈2nd Prize in the Designathon at VIEW College’s national tech fest
 
 Active participation in multiple national hackathons and ideathons
 
