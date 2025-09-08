@@ -12,7 +12,7 @@ My passion for technology and innovation is reflected in my achievements:
 
 Active participation in multiple national hackathons and ideathons
 
-I also maintain strong problem-solving skills through regular competitive coding, with over 140 problems solved on LeetCode (Max Rating: 1468) and 300+ on CodeChef (Max Rating: 1421, 2⭐).
+I also maintain strong problem-solving skills through regular competitive coding, with over 200 problems solved on LeetCode (Max Rating: 1468) and 300+ on CodeChef (Max Rating: 1421, 2⭐).
 
 I am always eager to learn, collaborate, and contribute to impactful technology-driven initiatives. I'm currently open to internship and project opportunities in front-end development, UI/UX design, and related areas.
 
